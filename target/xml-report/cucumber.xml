@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="5" tests="5" time="1.359">
+<testcase classname="Go to Registration Page" name="TC_0001 User type to New Password_There should be at least 1 lowercase char" time="0.203">
+<skipped><![CDATA[Given user go to GMI Bank homepage..........................................undefined
+Then user click to dropdown button..........................................undefined
+And user click to register button...........................................undefined
+Given user click to New Password button.....................................undefined
+Then user type New Password_There should be at least 1 lowercase char.......undefined
+]]></skipped>
+</testcase>
+<testcase classname="Go to Registration Page" name="TC_0002 User type to New Password_There should be at least 1 lowercase char" time="0">
+<skipped><![CDATA[Given user go to GMI Bank homepage..........................................undefined
+Then user click to dropdown button..........................................undefined
+And user click to register button...........................................undefined
+Given user click to New Password button.....................................undefined
+Then user type New Password_There should be at least 1 lowercase char.......undefined
+]]></skipped>
+</testcase>
+<testcase classname="Go to Registration Page" name="TC_0003 User type to New Password_There should be at least 1 digit" time="0.016">
+<skipped><![CDATA[Given user go to GMI Bank homepage..........................................undefined
+Then user click to dropdown button..........................................undefined
+And user click to register button...........................................undefined
+Given user click to New Password button.....................................undefined
+Then user type New Password_There should be at least 1 digit................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Go to Registration Page" name="TC_0004 User type to New Password_There should be  at least 1 special char" time="0.016">
+<skipped><![CDATA[Given user go to GMI Bank homepage..........................................undefined
+Then user click to dropdown button..........................................undefined
+And user click to register button...........................................undefined
+Given user click to New Password button.....................................undefined
+Then user type New Password_There should be  at least 1 special char........undefined
+]]></skipped>
+</testcase>
+<testcase classname="Go to Registration Page" name="TC_0005 User type to New Password_There should be at least 7 chars" time="0">
+<skipped><![CDATA[Given user go to GMI Bank homepage..........................................undefined
+Then user click to dropdown button..........................................undefined
+And user click to register button...........................................undefined
+Given user click to New Password button.....................................undefined
+Then user type New Password_There should be at least 7 chars................undefined
+]]></skipped>
+</testcase>
+</testsuite>
